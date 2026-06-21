@@ -68,21 +68,20 @@ streamlit run app.py
 
 ### Dashboard Home
 
-(Add screenshot here)
+![Dashboard Home](screenshots/DashBoard-HomePage.png)
 
-### Monthly Sales Analysis
+### Overall Monthly Sales Analysis
 
-(Add screenshot here)
+![Overall Monthly Sales](screenshots/Overall-Monthly-Sales.png)
+
+### Store and Item Sales Analysis
+
+![Store and Item Sales](screenshots/Store-Item-Sales.png)
 
 ### Actual vs Predicted Sales
 
-(Add screenshot here)
+![Actual vs Predicted Sales](screenshots/Actual-vs-Predicted.png)
 
-### Forecast Results
-
-(Add screenshot here)
-
-## Future Enhancements
 
 * Multi-year forecasting support
 * Cloud deployment

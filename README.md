@@ -89,6 +89,12 @@ streamlit run app.py
 * Real-time demand forecasting
 * Interactive business intelligence dashboards
 
+## Demo Video
+
+A short demonstration video of the application is available below.
+
+[▶ Watch Demo Video](demo.mp4)
+
 ## Repository Maintained By
 
 **Valluri Dileep Kumar**
